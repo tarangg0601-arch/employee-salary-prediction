@@ -5,6 +5,7 @@ This project predicts employee salary using machine learning.
 ## Dataset
 
 The dataset contains:
+
 - Age
 - Gender
 - Education Level
@@ -15,6 +16,26 @@ The dataset contains:
 ## Model
 
 Linear Regression
+
+## Project Flow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Data Visualization
+   ↓
+Feature Encoding
+   ↓
+Train-Test Split
+   ↓
+Linear Regression
+   ↓
+Salary Prediction
+   ↓
+Model Evaluation
+```
 
 ## Results
 

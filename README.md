@@ -1,13 +1,29 @@
 # Employee Salary Prediction
 
-A machine learning project that predicts employee salary based on factors such as age, education level, job role, gender, and years of experience.
+This project predicts employee salary using machine learning.
 
-## Machine Learning
-- Supervised Learning
-- Regression
-- Linear Regression
+## Dataset
 
-## Technologies
+The dataset contains:
+- Age
+- Gender
+- Education Level
+- Job Title
+- Years of Experience
+- Salary
+
+## Model
+
+Linear Regression
+
+## Results
+
+- MAE: 15741.89
+- RMSE: 21483.39
+- R² Score: 0.8316
+
+## Tools Used
+
 - Python
 - Pandas
 - NumPy

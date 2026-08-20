@@ -2,6 +2,8 @@
 
 This project predicts employee salary using machine learning.
 
+[Open in Google Colab](https://colab.research.google.com/github/tarangg0601-arch/employee-salary-prediction/blob/main/Employee_Salary_Prediction.ipynb)
+
 ## Dataset
 
 The dataset contains:
